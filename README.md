@@ -3,7 +3,7 @@ Final project of Data Science course.\
 Aim: classifying type of YouTube videos.  \
 Algorithm: K-mean clustering,...
 
-#Reprequisites:
+## Reprequisites:\
 	1/ Chromedriver must be added to path.\
 		- Go to this page and follows the instruction:\
 			https://sites.google.com/a/chromium.org/chromedriver/downloads \
