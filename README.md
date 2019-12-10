@@ -1,5 +1,5 @@
 # DS_Final_project
-# Question : Based on the description, use supervised learning to summarize content.
+# Question : Based on the content, create a program to summary the content.
  - Data source: https://news.zing.vn
  - Total **8741** samples.
  - Details:
@@ -9,6 +9,5 @@
      + **Publish_time**: time publish.
      + **Content**: Detail of article.
      + **URL**: point to url of article
- - Question: Based on the description, use supervised learning to summarize content.
- - Benefit: auto summarize instead of people's summary
- - Motivation: thinking-self
+ - Benefit: writers can summary their articles automatically instead of doing themeselves.
+ - Motivation: self-thinking
