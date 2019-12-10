@@ -1,5 +1,5 @@
 # DS_Final_project
-# Question : Based on the content, create a program to summary the content.
+# Question : Based on the content of a news, create a program to summary their content.
  - Data source: https://news.zing.vn
  - Total **8741** samples.
  - Details:
