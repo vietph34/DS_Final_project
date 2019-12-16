@@ -10,7 +10,7 @@
 	+ **Runtime**: duration of films (**0** if unavailable).
 	+ **des**: plot of the movie.
 	+ **Date**: year (**0** if unavailable).
-	+ **Rating**: how well the film performed (**0** if unavailable).  --> this is the information that we need to *classify*, that is a comming film.
+	+ **Rating**: how well the film performed (**0** if unavailable).  --> this is the information that we need to *predict*, that is a incomming film.
 	+ **Genres**: genres of film 
 	
  - Benefit: automatic rating system for new film which is not released. 
