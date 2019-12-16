@@ -1,13 +1,19 @@
 # DS_Final_project
-# Question : Based on the content of a news, create a program to summary their content.
- - Data source: https://news.zing.vn
- - Total **8741** samples.
+# Question : Film's rating prediction.
+ - Data source: https://www.imdb.com/
+ - In 8 categories: action, comedy, Adventure,Animation, Crime, Romance, Documentary, Biography
+ - Colecting 10000 samples each category
+ 
+ - Total **80000** samples (un-uniqued).
  - Details:
-     + **Title**: name of the article.
-     Desc", "Publish_time", "Content", "URL
-     + **Desc**: description of article.
-     + **Publish_time**: time publish.
-     + **Content**: Detail of article.
-     + **URL**: point to url of article
- - Benefit: writers can summary their articles automatically instead of doing themeselves.
+	+ **Title**: name of the film.
+	+ **Runtime**: duration of films (**0** if unavailable).
+	+ **des**: plot of the movie.
+	+ **Date**: year (**0** if unavailable).
+	+ **Rating**: how well the film performed (**0** if unavailable).  --> this is the information that we need to *classify*, that is a comming film.
+	+ **Genres**: genres of film 
+	
+ - Benefit: automatic rating system for new film which is not released. 
+ (example: The film called "Mắt biếc", will be firstly released in VietNam at  20/12/2019. So, all of rate in other web is all noise (maybe some group be hired to vote).
+ We need a fair-play automatic rating system.)
  - Motivation: self-thinking
