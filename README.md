@@ -14,6 +14,6 @@
 	+ **Genres**: genres of film 
 	
  - Benefit: automatic rating system for new film which is not released. 
- (example: The film called "Mắt biếc", will be firstly released in VietNam at  20/12/2019. So, all of rate in other web is all noise (maybe some group be hired to vote).
+ (example: The film called "Mắt biếc", will be firstly released in VietNam at  20/12/2019. So, all of the rate in other websites are all noise (may some group be hired to vote).
  We need a fair-play automatic rating system.)
  - Motivation: self-thinking
