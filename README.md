@@ -13,6 +13,7 @@
  - Example url: https://www.imdb.com/search/title/?release_date=2010-10-10,2018-10-10&genres=adventure&languages=en&start=0&ref_=adv_nxt
  - Legality: 
  The bellow picture describes legality of https://www.imdb.com/:
+ 
  ![image text](./imgs/robot.png "Robots.txt")
  
  However, we used /search/title/~ that is not in prohibited zone. So we can freedom crawl it.
