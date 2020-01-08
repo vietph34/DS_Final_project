@@ -1,6 +1,23 @@
 # DS_Final_project
 # Question : Film's rating prediction.
+## 1. Group infomation
+
+| Tên  |MSSV|email|
+|-|:-:|-:|
+| Huỳnh Hoàng Huy |1612861|huynhhoanghuy11111998@gmail.com|
+| Phạm Hùng Việt |1612809|hungviet0304@outlook.com|
+
+## 2. Detail
+
  - Data source: https://www.imdb.com/
+ - Example url: https://www.imdb.com/search/title/?release_date=2010-10-10,2018-10-10&genres=adventure&languages=en&start=0&ref_=adv_nxt
+ - Legality: 
+ The bellow picture describes legality of https://www.imdb.com/:
+ ![image text](./imgs/robot.png "Robots.txt")
+ 
+ However, we used /search/title/~ that is not in prohibited zone. So we can freedom crawl it.
+
+ 
  - In 8 categories: action, comedy, Adventure,Animation, Crime, Romance, Documentary, Biography
  - Colecting 10000 samples each category
  
